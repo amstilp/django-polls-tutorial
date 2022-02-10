@@ -277,3 +277,4 @@ prototype_anvil_tracker/media/
 
 # Ignore sqlite database used for initial development
 db.sqlite
+db.sqlite3
